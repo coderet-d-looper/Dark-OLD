@@ -230,7 +230,7 @@ def umo_in():
         print(f' \033[1;91m[\033[1;97m•\033[1;91m]\033[1;91m USE AEROPLANE MODE IN EVERY 5 MIN ')
         shoha()
         for love in user:
-            pwx = [love[1:], 'Bangladesh', 'i love you', 'sadiya', 'fariya', 'Farjana', '102030', 'sanjida', 'jannat', '304050', '203040']
+            pwx = [love[1:], code[1:], code+love, 'Bangladesh', 'i love you', 'sadiya', 'fariya', 'Farjana', '102030', 'sanjida', 'jannat', '102030', '203040', '304050', '405060', '506070', '607080', '708090', 'shahin', 'sarmin', 'sharmin', 'fatema', 'nusrat', 'mababa', 'habiba']
             uid = code+love
             for Eman in HamiiID:
                 pwx.append(Eman)
